@@ -10,7 +10,7 @@ some of the most ugly sites on the internet (https://edit.co.uk/blog/top-10-wors
 
 The last time this site was updated is **2017**. 
 
-###Suggestions
+### Suggestions
 
 *The first page is incredibly long, it definitely needs to be more concise. I suggest to start that we create a navigation outlet that lets you navigate to articles by date that you enter.
 *Should make the website box fill the full screen not be a box
