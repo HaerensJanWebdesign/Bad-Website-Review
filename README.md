@@ -1,6 +1,5 @@
 # Bad-Website-Review
-1e Taak Becode - lelijke website
+1e Taak Becode - Markdown Warmup
 
-Michaela Edit 18 April via cmd
 
-We chose the site [007Museum](007museum.com)
+## We chose the site [007Museum](007museum.com)
