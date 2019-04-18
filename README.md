@@ -16,4 +16,4 @@ Adjust font and heirarchy of text
 Make colors softer and create focus
 Make a navigation bar to organize sections of the website
 
-![alt text](https://github.com/HaerensJanWebdesign/Bad-Website-Review/commit/753a181fba84fbd431d0a671079d95f9edc3c8d4)
+![alt text](jbimg/bonds.jpg)
