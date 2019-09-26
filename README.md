@@ -1,6 +1,8 @@
 
 # Markdown Warmup
-1e Taak Becode - Markdown Warmup
+1 Becode - Introductie - Markdown Warmup
+
+Search for an ugly website and describe what is wrong with it.
 
 
 ## We chose the site [007Museum](007museum.com).
